@@ -1,3 +1,5 @@
+// Record Logic
+
 let btn = document.querySelector(".record-btn")
 
 btn.addEventListener("click", async function () {
@@ -32,6 +34,5 @@ btn.addEventListener("click", async function () {
       a.click()
   })
 
-    //we have to start the recorder manually
     mediaRecorder.start()
 })
