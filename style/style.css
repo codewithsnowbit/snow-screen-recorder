@@ -17,3 +17,8 @@ body{
 .main-record{
     min-height: 100vh;
 }
+.issue-footer{
+    position: absolute;
+    bottom:0;
+    margin-left: 20px;
+}
